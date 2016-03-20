@@ -1,0 +1,5 @@
+target/
+.mvn/
+accessingdataneo4j.db/
+mvnw
+mvnw.cmd

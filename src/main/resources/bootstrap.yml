@@ -1,0 +1,11 @@
+eureka:
+    client:
+        service-url:
+            default-zone: http://localhost:8761/
+spring:
+    application:
+        name: categories
+    cloud:
+        config:
+            discovery:
+                enabled: true
